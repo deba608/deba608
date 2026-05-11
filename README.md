@@ -5,3 +5,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+
+<p align="center">
+  <img src="header.svg" width="100%" />
+</p>
