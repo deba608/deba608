@@ -1,4 +1,7 @@
 ## Hi there 👋
+<p align="center">
+  <img src="Debashish_github_animation.svg" alt="Divy Kairoth" />
+</p>
 <h1 align="center">Hi 👋, I'm Debashish</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -6,6 +9,4 @@
 <p align="left">
 </p>
 
-<p align="center">
-  <img src="header.svg" width="100%" />
-</p>
+
