@@ -1,14 +1,15 @@
-<p align="center">
-  <img src="name-animation.svg" alt="DEBASHISH - AI Engineer and Developer" />
-</p>
-<p align="center">
-  <i>Let's build intelligent, useful software.</i>
-</p>
+# DEBASHISH - AI Engineer and Developer
 
-## 🌐 Socials:
+![DEBASHISH - AI Engineer and Developer](name-animation.svg)
+
+*Let's build intelligent, useful software.*
+
+[## 🌐 Socials]
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dev_loperrr/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debashish608/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pdebashish608@gmail.com)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
+
 **Languages**
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
 
@@ -27,12 +28,9 @@
 **Design**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=deba608&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=deba608&theme=dark&hide_border=false)<br/>
+# 📊 GitHub Stats
 
-
-
-
+![](https://github-readme-stats.shion.dev/api?username=deba608&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![](https://streak-stats.demolab.com/?user=deba608&theme=dark&hide_border=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
