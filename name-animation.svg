@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="844" height="220" viewBox="0 0 844 220" role="img" aria-label="DEBASHISH - AI Engineer and Developer">
+  <style>
+    :root {
+      color-scheme: dark;
+    }
+
+    .bg {
+      fill: #0d1117;
+    }
+
+    .tile {
+      animation: pop 3.6s ease-in-out infinite;
+      transform-box: fill-box;
+      transform-origin: center;
+    }
+
+    .dim {
+      fill: #161b22;
+      opacity: .42;
+    }
+
+    .name {
+      fill: #f0f6fc;
+      font: 800 58px/1 "Segoe UI", Arial, sans-serif;
+      letter-spacing: 4px;
+      animation: glow 3.6s ease-in-out infinite;
+    }
+
+    .sub {
+      fill: #9be9a8;
+      font: 700 18px/1.4 "Segoe UI", Arial, sans-serif;
+      letter-spacing: 3px;
+      animation: rise 3.6s ease-in-out infinite;
+    }
+
+    .line {
+      stroke: #40c463;
+      stroke-width: 2;
+      stroke-linecap: round;
+      opacity: .72;
+      stroke-dasharray: 220;
+      stroke-dashoffset: 220;
+      animation: draw 3.6s ease-in-out infinite;
+    }
+
+    @keyframes pop {
+      0%, 100% { opacity: .22; transform: scale(.82) rotate(-12deg); }
+      42%, 72% { opacity: 1; transform: scale(1) rotate(0deg); }
+    }
+
+    @keyframes glow {
+      0%, 100% { opacity: .72; filter: drop-shadow(0 0 0 #40c463); }
+      45%, 72% { opacity: 1; filter: drop-shadow(0 0 12px #2ea043); }
+    }
+
+    @keyframes rise {
+      0%, 100% { opacity: .58; transform: translateY(6px); }
+      45%, 72% { opacity: 1; transform: translateY(0); }
+    }
+
+    @keyframes draw {
+      0%, 18% { stroke-dashoffset: 220; opacity: .2; }
+      50%, 78% { stroke-dashoffset: 0; opacity: .86; }
+      100% { stroke-dashoffset: 220; opacity: .2; }
+    }
+  </style>
+
+  <rect class="bg" width="100%" height="100%" rx="10"/>
+
+  <g opacity=".95">
+    <rect class="tile" x="28" y="28" width="12" height="12" rx="2" fill="#40c463" style="animation-delay:0.00s"/>
+    <rect class="tile" x="48" y="28" width="12" height="12" rx="2" fill="#9be9a8" style="animation-delay:0.08s"/>
+    <rect class="dim" x="68" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="88" y="28" width="12" height="12" rx="2" fill="#30a14e" style="animation-delay:0.16s"/>
+    <rect class="dim" x="108" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="128" y="28" width="12" height="12" rx="2" fill="#216e39" style="animation-delay:0.24s"/>
+    <rect class="tile" x="148" y="28" width="12" height="12" rx="2" fill="#40c463" style="animation-delay:0.32s"/>
+    <rect class="dim" x="168" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="188" y="28" width="12" height="12" rx="2" fill="#2ea043" style="animation-delay:0.40s"/>
+    <rect class="dim" x="208" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="228" y="28" width="12" height="12" rx="2" fill="#9be9a8" style="animation-delay:0.48s"/>
+    <rect class="dim" x="248" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="268" y="28" width="12" height="12" rx="2" fill="#30a14e" style="animation-delay:0.56s"/>
+    <rect class="tile" x="288" y="28" width="12" height="12" rx="2" fill="#40c463" style="animation-delay:0.64s"/>
+    <rect class="dim" x="308" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="328" y="28" width="12" height="12" rx="2" fill="#216e39" style="animation-delay:0.72s"/>
+    <rect class="dim" x="348" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="368" y="28" width="12" height="12" rx="2" fill="#2ea043" style="animation-delay:0.80s"/>
+    <rect class="tile" x="388" y="28" width="12" height="12" rx="2" fill="#9be9a8" style="animation-delay:0.88s"/>
+    <rect class="dim" x="408" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="428" y="28" width="12" height="12" rx="2" fill="#40c463" style="animation-delay:0.96s"/>
+    <rect class="dim" x="448" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="468" y="28" width="12" height="12" rx="2" fill="#30a14e" style="animation-delay:1.04s"/>
+    <rect class="dim" x="488" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="508" y="28" width="12" height="12" rx="2" fill="#216e39" style="animation-delay:1.12s"/>
+    <rect class="tile" x="528" y="28" width="12" height="12" rx="2" fill="#9be9a8" style="animation-delay:1.20s"/>
+    <rect class="dim" x="548" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="568" y="28" width="12" height="12" rx="2" fill="#40c463" style="animation-delay:1.28s"/>
+    <rect class="dim" x="588" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="608" y="28" width="12" height="12" rx="2" fill="#2ea043" style="animation-delay:1.36s"/>
+    <rect class="tile" x="628" y="28" width="12" height="12" rx="2" fill="#30a14e" style="animation-delay:1.44s"/>
+    <rect class="dim" x="648" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="668" y="28" width="12" height="12" rx="2" fill="#216e39" style="animation-delay:1.52s"/>
+    <rect class="dim" x="688" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="708" y="28" width="12" height="12" rx="2" fill="#9be9a8" style="animation-delay:1.60s"/>
+    <rect class="tile" x="728" y="28" width="12" height="12" rx="2" fill="#40c463" style="animation-delay:1.68s"/>
+    <rect class="dim" x="748" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="768" y="28" width="12" height="12" rx="2" fill="#30a14e" style="animation-delay:1.76s"/>
+    <rect class="dim" x="788" y="28" width="12" height="12" rx="2"/>
+    <rect class="tile" x="808" y="28" width="12" height="12" rx="2" fill="#216e39" style="animation-delay:1.84s"/>
+  </g>
+
+  <g opacity=".62">
+    <rect class="dim" x="28" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="48" y="180" width="12" height="12" rx="2" fill="#216e39" style="animation-delay:1.80s"/>
+    <rect class="tile" x="68" y="180" width="12" height="12" rx="2" fill="#40c463" style="animation-delay:1.72s"/>
+    <rect class="dim" x="88" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="108" y="180" width="12" height="12" rx="2" fill="#30a14e" style="animation-delay:1.64s"/>
+    <rect class="dim" x="128" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="148" y="180" width="12" height="12" rx="2" fill="#9be9a8" style="animation-delay:1.56s"/>
+    <rect class="dim" x="168" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="188" y="180" width="12" height="12" rx="2" fill="#2ea043" style="animation-delay:1.48s"/>
+    <rect class="tile" x="208" y="180" width="12" height="12" rx="2" fill="#40c463" style="animation-delay:1.40s"/>
+    <rect class="dim" x="228" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="248" y="180" width="12" height="12" rx="2" fill="#216e39" style="animation-delay:1.32s"/>
+    <rect class="dim" x="268" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="288" y="180" width="12" height="12" rx="2" fill="#30a14e" style="animation-delay:1.24s"/>
+    <rect class="dim" x="308" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="328" y="180" width="12" height="12" rx="2" fill="#9be9a8" style="animation-delay:1.16s"/>
+    <rect class="tile" x="348" y="180" width="12" height="12" rx="2" fill="#40c463" style="animation-delay:1.08s"/>
+    <rect class="dim" x="368" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="388" y="180" width="12" height="12" rx="2" fill="#2ea043" style="animation-delay:1.00s"/>
+    <rect class="dim" x="408" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="428" y="180" width="12" height="12" rx="2" fill="#216e39" style="animation-delay:.92s"/>
+    <rect class="tile" x="448" y="180" width="12" height="12" rx="2" fill="#40c463" style="animation-delay:.84s"/>
+    <rect class="dim" x="468" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="488" y="180" width="12" height="12" rx="2" fill="#30a14e" style="animation-delay:.76s"/>
+    <rect class="dim" x="508" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="528" y="180" width="12" height="12" rx="2" fill="#9be9a8" style="animation-delay:.68s"/>
+    <rect class="dim" x="548" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="568" y="180" width="12" height="12" rx="2" fill="#2ea043" style="animation-delay:.60s"/>
+    <rect class="tile" x="588" y="180" width="12" height="12" rx="2" fill="#40c463" style="animation-delay:.52s"/>
+    <rect class="dim" x="608" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="628" y="180" width="12" height="12" rx="2" fill="#216e39" style="animation-delay:.44s"/>
+    <rect class="dim" x="648" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="668" y="180" width="12" height="12" rx="2" fill="#30a14e" style="animation-delay:.36s"/>
+    <rect class="dim" x="688" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="708" y="180" width="12" height="12" rx="2" fill="#9be9a8" style="animation-delay:.28s"/>
+    <rect class="tile" x="728" y="180" width="12" height="12" rx="2" fill="#40c463" style="animation-delay:.20s"/>
+    <rect class="dim" x="748" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="768" y="180" width="12" height="12" rx="2" fill="#2ea043" style="animation-delay:.12s"/>
+    <rect class="dim" x="788" y="180" width="12" height="12" rx="2"/>
+    <rect class="tile" x="808" y="180" width="12" height="12" rx="2" fill="#216e39" style="animation-delay:.04s"/>
+  </g>
+
+  <line class="line" x1="292" y1="150" x2="552" y2="150"/>
+  <text x="422" y="112" text-anchor="middle" class="name">DEBASHISH</text>
+  <text x="422" y="174" text-anchor="middle" class="sub">AI ENGINEER | DEVELOPER</text>
+</svg>
