@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/debashish608"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://instagram.com/dev_loperrr"><img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.instagram.com/_deba.sh/"><img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:pdebashish608@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
