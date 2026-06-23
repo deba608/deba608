@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="name-animation.svg" alt="Debashish - AI Engineer & Developer" width="844" />
-</p>
-<p align="center">
+  <img src="name-animation.svg" alt="Debashish - AI Engineer & Developer" width="844" /><br/>
   <i>Let's build intelligent, useful software.</i>
 </p>
 
