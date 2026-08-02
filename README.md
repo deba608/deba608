@@ -5,7 +5,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/debashish608"><img src="https://img.shields.io/badge/LinkedIn-161B22?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0NDggNTEyIj48IS0tISBGb250IEF3ZXNvbWUgRnJlZSA3LjMuMSBieSBAZm9udGF3ZXNvbWUgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbSBMaWNlbnNlIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20vbGljZW5zZS9mcmVlIChJY29uczogQ0MgQlkgNC4wLCBGb250czogU0lMIE9GTCAxLjEsIENvZGU6IE1JVCBMaWNlbnNlKSBDb3B5cmlnaHQgMjAyNiBGb250aWNvbnMsIEluYy4tLT48cGF0aCBmaWxsPSIjRkZGRkZGIiBkPSJNNDE2IDMySDMxLjlBMzIgMzIgMCAwIDAgMCA2NC4zdjM4My40QTMyIDMyIDAgMCAwIDMxLjkgNDgwSDQxNmMxNy42IDAgMzItMTQuNSAzMi0zMi4zVjY0LjNBMzIgMzIgMCAwIDAgNDE2IDMyTTEzNS40IDQxNkg2OVYyMDIuMmg2Ni41ek0xMDIuMiA5NmEzOC41IDM4LjUgMCAxIDEgMCA3NyAzOC41IDM4LjUgMCAxIDEgMC03N20yODIuMSAzMjBoLTY2LjRWMzEyYzAtMjQuOC0uNS01Ni43LTM0LjUtNTYuNy0zNC42IDAtMzkuOSAyNy0zOS45IDU0LjlWNDE2aC02Ni40VjIwMi4yaDYzLjd2MjkuMmguOWM4LjktMTYuOCAzMC42LTM0LjUgNjIuOS0zNC41IDY3LjIgMCA3OS43IDQ0LjMgNzkuNyAxMDEuOXoiLz48L3N2Zz4=" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/_deba.sh/"><img src="https://img.shields.io/badge/Instagram-161B22?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:pdebashish608@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
