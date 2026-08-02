@@ -11,6 +11,16 @@
 
 ---
 
+### About
+
+CSE undergrad at SUIIT, Burla, building software since childhood driven by a habit of solving real-life problems with code. Comfortable across the stack — Python, Java, C — and currently deep in agentic AI: LLM integration, prompt engineering, and working daily with tools like Claude Code, Codex, and Ollama.
+
+Previously interned as a Software Engineer at UnifyApps, working on API integrations and backend service testing. Currently serving as Technical Lead at E-Cell SUIIT and Secretary of the AWS Cloud Club, alongside hackathon wins for an AI health assistant and an AI-driven education platform.
+
+No fear of an unfamiliar problem — just patience and a willingness to try another angle until it works.
+
+---
+
 ### Stack
 
 #### Languages
@@ -18,6 +28,9 @@
 
 #### Backend & Databases
 <img src="https://img.shields.io/badge/Node.js-161B22?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Supabase-161B22?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" /> <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/MySQL-161B22?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+
+#### AI & Agentic Tools
+<img src="https://img.shields.io/badge/Claude_Code-161B22?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" /> <img src="https://img.shields.io/badge/OpenAI_Codex-161B22?style=flat-square&logo=openai&logoColor=white" alt="Codex" /> <img src="https://img.shields.io/badge/Ollama-161B22?style=flat-square&logo=ollama&logoColor=white" alt="Ollama" /> <img src="https://img.shields.io/badge/Prompt_Engineering-161B22?style=flat-square&logo=openaigym&logoColor=white" alt="Prompt Engineering" />
 
 #### DevOps & Tools
 <img src="https://img.shields.io/badge/Docker-161B22?style=flat-square&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/Kubernetes-161B22?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /> <img src="https://img.shields.io/badge/Git-161B22?style=flat-square&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/GitHub-161B22?style=flat-square&logo=github&logoColor=white" alt="GitHub" /> <img src="https://img.shields.io/badge/Postman-161B22?style=flat-square&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/PowerShell-161B22?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
@@ -27,10 +40,38 @@
 
 ---
 
+### Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/deba608/self_print">self_print</a></b> · <a href="https://selfprint-six.vercel.app">live</a><br/>
+      Self-service print ordering web app.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/deba608/IPO_Desk">IPO_Desk</a></b> · <a href="https://ipo-desk-six.vercel.app">live</a><br/>
+      IPO tracking and allotment dashboard.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/deba608/url_shortner">url_shortner</a></b> · <a href="https://shortly-devv.vercel.app">live</a><br/>
+      Minimal URL shortening service.
+    </td>
+    <td width="50%" valign="top">
+      <b><a href="https://github.com/deba608/store-locator">store-locator</a></b><br/>
+      Location-based store finder built in TypeScript.
+    </td>
+  </tr>
+</table>
+
+---
+
 ### Activity
 
 <p align="left">
   <a href="https://github.com/deba608">
-    <img src="https://streak-stats.demolab.com/?user=deba608&theme=dark&hide_border=true&background=0d1117&ring=40c463&fire=40c463&currStreakLabel=40c463" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=deba608&show_icons=true&theme=dark&bg_color=0d1117&title_color=40c463&icon_color=40c463&text_color=c9d1d9&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+    <img src="https://streak-stats.demolab.com/?user=deba608&theme=dark&hide_border=true&background=0d1117&ring=40c463&fire=40c463&currStreakLabel=40c463" alt="GitHub Streak" height="165" />
   </a>
 </p>
