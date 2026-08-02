@@ -13,9 +13,9 @@
 
 ### About
 
-CSE undergraduate at SUIIT, Burla, building software full-stack — from AI-integrated backends to interfaces designed in Figma. Software Engineer Intern at UnifyApps (API integrations, backend testing); Technical Lead at E-Cell SUIIT; Secretary, AWS Cloud Club. Two hackathon wins: an AI health assistant and an AI-driven education platform.
+I build software to solve problems I actually run into — that habit goes back to childhood, and it's still what pulls me into a new tool or language. Comfortable moving across the stack: backend in Python/Java/Node, frontend in React/Next.js, and increasingly deep in agentic AI — prompt engineering, LLM integration, working daily with tools like Claude Code, Codex, and Ollama.
 
-Currently working with agentic AI tooling — Claude Code, Codex, Ollama — alongside a standard full-stack toolkit spanning Node.js, React/Next.js, and SQL/NoSQL databases.
+I don't stall on unfamiliar problems. If one approach doesn't work, I find another — patience over panic, always another angle to try.
 
 ---
 
