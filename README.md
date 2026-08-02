@@ -13,9 +13,13 @@
 
 ### About
 
-I build software to solve problems I actually run into. That habit goes back to childhood, and it's still what pulls me into a new tool or language. Comfortable moving across the stack: backend in Python/Java/Node, frontend in React/Next.js, and increasingly deep in agentic AI, from prompt engineering to LLM integration, working daily with tools like Claude Code, OpenCode, Codex, and Ollama.
+<p align="justify">
+  I build software to solve problems I actually run into. That habit goes back to childhood, and it's still what pulls me into a new tool or language. Comfortable moving across the stack: backend in Python/Java/Node, frontend in React/Next.js, and increasingly deep in agentic AI, from prompt engineering to LLM integration, working daily with tools like Claude Code, OpenCode, Codex, and Ollama.
+</p>
 
-No problem is unsolvable, just unsolved.
+<p align="justify">
+  No problem is unsolvable, just unsolved.
+</p>
 
 ---
 
@@ -49,22 +53,29 @@ No problem is unsolvable, just unsolved.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/deba608/self_print">self_print</a></b> · <a href="https://selfprint-six.vercel.app">live</a><br/>
-      Self-service print ordering web app.
+      <a href="https://github.com/deba608/self_print"><b>self_print</b></a>
+      &nbsp;<a href="https://selfprint-six.vercel.app"><img src="https://img.shields.io/badge/live-40c463?style=flat-square" alt="live" /></a><br/>
+      Self-service print ordering web app.<br/>
+      <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/deba608/IPO_Desk">IPO_Desk</a></b> · <a href="https://ipo-desk-six.vercel.app">live</a><br/>
-      IPO tracking and allotment dashboard.
+      <a href="https://github.com/deba608/IPO_Desk"><b>IPO_Desk</b></a>
+      &nbsp;<a href="https://ipo-desk-six.vercel.app"><img src="https://img.shields.io/badge/live-40c463?style=flat-square" alt="live" /></a><br/>
+      IPO tracking and allotment dashboard.<br/>
+      <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/deba608/url_shortner">url_shortner</a></b> · <a href="https://shortly-devv.vercel.app">live</a><br/>
-      Minimal URL shortening service.
+      <a href="https://github.com/deba608/url_shortner"><b>url_shortner</b></a>
+      &nbsp;<a href="https://shortly-devv.vercel.app"><img src="https://img.shields.io/badge/live-40c463?style=flat-square" alt="live" /></a><br/>
+      Minimal URL shortening service.<br/>
+      <img src="https://img.shields.io/badge/JavaScript-161B22?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
     </td>
     <td width="50%" valign="top">
-      <b><a href="https://github.com/deba608/store-locator">store-locator</a></b><br/>
-      Location-based store finder built in TypeScript.
+      <a href="https://github.com/deba608/store-locator"><b>store-locator</b></a><br/>
+      Location-based store finder.<br/>
+      <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
     </td>
   </tr>
 </table>
