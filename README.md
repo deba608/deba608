@@ -28,11 +28,7 @@ View counters (hidden until counts grow). Uncomment to display:
 ### About
 
 <p align="justify">
-  Full-stack developer focused on AI and agentic systems. I build complete products, not fragments: React and Next.js on the front, Node/Express or Python on the back, PostgreSQL and Supabase underneath, with LLM tooling and automation wherever they remove real work.
-</p>
-
-<p align="justify">
-  Most of what I ship starts as a problem I ran into. Recent builds include a QR-based print queue with a Windows spooler agent, an IPO allotment desk for NSE/BSE applications, a Redis-cached URL shortener with click analytics, and a Chrome extension that takes YouTube playback to 4x. I also build the community platform for the AWS Student Builder Group at SUIIT.
+  I build software to solve problems I actually run into. That habit goes back to childhood, and it's still what pulls me into a new tool or language. Comfortable moving across the stack: backend in Python/Java/Node, frontend in React/Next.js/Astro, and increasingly deep in agentic AI, from prompt engineering to LLM integration with LangChain and LangGraph.
 </p>
 
 <p align="justify">
