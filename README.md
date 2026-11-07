@@ -9,18 +9,18 @@
 </p>
 
 ---
-<!-- Profile Views Badge -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/deba608.svg?base=0&variant=outline&font=geist" />
-  <img alt="profile views" src="https://shieldcn.dev/views/user/deba608.svg?base=0&variant=outline&mode=light&font=geist" />
-</picture>
 
-<!-- Repo Views Badge -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/deba608/repos.svg?base=0&variant=outline&font=geist" />
-  <img alt="repo views" src="https://shieldcn.dev/views/user/deba608/repos.svg?base=0&variant=outline&mode=light&font=geist" />
-</picture>
-
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/deba608.svg?variant=outline&amp;font=geist" />
+    <img alt="profile views" src="https://shieldcn.dev/views/user/deba608.svg?variant=outline&amp;mode=light&amp;font=geist" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/user/deba608/repos.svg?variant=outline&amp;font=geist" />
+    <img alt="repo views" src="https://shieldcn.dev/views/user/deba608/repos.svg?variant=outline&amp;mode=light&amp;font=geist" />
+  </picture>
+</p>
 
 ### About
 
