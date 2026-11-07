@@ -126,6 +126,6 @@ View counters (hidden until counts grow). Uncomment to display:
   <a href="https://github.com/deba608">
     <img src="https://streak-stats.demolab.com/?user=deba608&theme=dark&hide_border=true&background=0d1117&ring=40c463&fire=40c463&currStreakLabel=40c463" alt="GitHub Streak" height="165" />
     <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=deba608&show_icons=true&theme=dark&bg_color=0d1117&title_color=40c463&icon_color=40c463&text_color=c9d1d9&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=deba608&layout=compact&theme=dark&bg_color=0d1117&title_color=40c463&text_color=c9d1d9&hide_border=true&langs_count=8&count_private=true" alt="Top Languages" height="165" />
+
   </a>
 </p>
