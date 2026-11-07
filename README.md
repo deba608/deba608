@@ -9,6 +9,8 @@
 </p>
 
 ---
+<!--
+View counters (hidden until counts grow). Uncomment to display:
 
 <p align="center">
   <picture>
@@ -21,6 +23,7 @@
     <img alt="repo views" src="https://shieldcn.dev/views/user/deba608/repos.svg?variant=outline&amp;mode=light&amp;font=geist" />
   </picture>
 </p>
+-->
 
 ### About
 
